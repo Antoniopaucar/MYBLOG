@@ -1,12 +1,12 @@
 body
 {
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    color: rgb(70, 19, 138);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(24, 16, 20);
     font-size: 16px;
     margin: 0;
     padding: 0;
-    background-color: rgba(116, 10, 216, 0.699);
+    background-color: rgb(15, 148, 104);
 }
 #cabecera
 {
